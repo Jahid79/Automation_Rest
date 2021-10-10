@@ -38,6 +38,8 @@ public class serializeTest {
 		String responseString = res.asString();
 		System.out.println(responseString);
 		System.out.println(myList);
+		System.out.println(myList);
+		
 				
 
 	}

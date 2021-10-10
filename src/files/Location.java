@@ -16,5 +16,7 @@ public double getLng() {
 public void setLng(double lng) {
 	this.lng = lng;
 }
-
+public void print() {
+	System.out.println(lng);
+}
 }
